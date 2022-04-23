@@ -11,10 +11,12 @@ function Home() {
                 </div>
 
                 <div className='col s12 m8 l9'>
+                    <Home/>
                   <About/>
                   <Skills/>
                   <Experience/>
                   <Education/>
+                  
                 </div>
             </div>
 
