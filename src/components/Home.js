@@ -16,6 +16,7 @@ function Home() {
                   <Skills/>
                   <Experience/>
                   <Education/>
+                  <Skill/>
                   
                 </div>
             </div>
