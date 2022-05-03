@@ -11,7 +11,7 @@ function Home() {
                 </div>
 
                 <div className='col s12 m8 l9'>
-                    <Home/>
+                  <Home/>
                   <About/>
                   <Skills/>
                   <Experience/>
@@ -23,6 +23,8 @@ function Home() {
 
         </div>
     </section>
+
+    <div></div>
   )
 }
 
